@@ -1,0 +1,14 @@
+# Compiled objects
+*.o
+
+# Executables
+test_mythreads
+
+# Debug files
+*.dSYM/
+core
+
+# Editor backups
+*~
+*.swp
+.vscode/
