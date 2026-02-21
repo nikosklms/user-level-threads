@@ -1,1 +1,0 @@
-A C-based implementation of user-level thread management system, providing lightweight threading capabilities at the application level. This project demonstrates core concepts of thread scheduling, context switching, and inter-thread synchronization without relying on OS-level threading primitives.
